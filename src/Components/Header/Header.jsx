@@ -3,7 +3,7 @@ import './Header.css'
 const Header = () => {
     return (
         <section className="h-wrapper">
-            <div className="h-container">
+            <div className="innerWidth h-container">
                 <div className="Logo">
                     <img src="./logo.png" alt="logo" />
                 </div>
