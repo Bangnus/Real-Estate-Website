@@ -16,9 +16,6 @@ const Contact = () => {
           <div className="flexColStart contacrModes">
             {/* first riw */}
             <div className="flexStart row">
-
-              
-
               <div className="flexColCenter mode">
                 <div className="flexStart">
                   <div className="flexCenter icon">
@@ -82,8 +79,8 @@ const Contact = () => {
         </div>
 
         {/* right side */}
-        <div className="c-right">
-          <div className="image-container">
+        <div className="c-right ">
+          <div className="image-container ">
             <img src="./contact.jpg" alt="" />
           </div>
 

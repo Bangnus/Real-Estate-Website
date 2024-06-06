@@ -5,3 +5,19 @@
         width: 9rem;
     }
 }
+/* สำหรับโทรศัพท์มือถือขนาดเล็ก */
+@media (max-width: 576px) {
+   .c-container{
+    flex-direction: column;
+   }
+  }
+  
+  /* สำหรับโทรศัพท์มือถือขนาดกลาง */
+  @media (max-width: 768px) {
+   
+  }
+  
+
+  @media (max-width: 963px) {
+    
+  }
